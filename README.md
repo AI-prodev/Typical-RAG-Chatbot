@@ -1,0 +1,1 @@
+This is my typical RAG project sample
